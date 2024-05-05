@@ -22,3 +22,8 @@ This little app can be used to swap backgrounds, swap subjects, remove objects, 
 
 You will be writing the code that powers the main functionality of the app: calling the SAM model and processing its output, as well as using a text2image diffusion model to generate the new background or subject.
 
+## Sample
+
+https://github.com/vinayms/Udacity-AI-Photo-Editing-with-Inpainting/edit/main/daenerys_walking_in_starbucks.PNG
+
+
