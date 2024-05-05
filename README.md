@@ -1,8 +1,8 @@
 # Udacity-AI-Photo-Editing-with-Inpainting
 Project to show how Generative Models can be used in Computer Vision
 
-###Project Overview
-##Project Introduction
+### Project Overview
+## Project Introduction
 In this class we have seen how Generative models can be used in Computer Vision. We have also seen how to use the Segment Anything Model to select subjects in images by providing points and other inputs.
 
 Let's put some of this knowledge to good use by building something interesting, and fun!
