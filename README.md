@@ -24,6 +24,9 @@ You will be writing the code that powers the main functionality of the app: call
 
 ## Sample
 
-https://github.com/vinayms/Udacity-AI-Photo-Editing-with-Inpainting/edit/main/daenerys_walking_in_starbucks.PNG
+![alt text](https://github.com/vinayms/Udacity-AI-Photo-Editing-with-Inpainting/edit/main/daenerys_walking_in_starbucks.PNG)
+
+
+![alt text](https://github.com/vinayms/Udacity-AI-Photo-Editing-with-Inpainting/edit/main/tyrion_in_new_york_city.PNG)
 
 
